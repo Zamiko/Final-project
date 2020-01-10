@@ -21,4 +21,5 @@ The SMS Spam Collection is a set of SMS tagged messages that have been collected
 
 [Recurrent Neural Network](https://github.com/ECS171-Project/Final-project/blob/master/Spam%20Classifier%20with%20ANN.ipynb)  
 
+### Report:
 [Project Paper](https://github.com/Zamiko/Final-project/blob/master/Machine_Learning_Approaches_to_Spam_Filtering_Problems%20(8).pdf) 
